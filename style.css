@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    height: 100vh;
+    background-color:black;
+}
+.main{
+    font-family: 'Source Sans Pro', sans-serif;
+}
+#maincard,.card-body{
+    color: white;
+    background-color: black;
+}
+.notecard{
+    height: 240px;
+    border: 5px solid white;
+    border-radius: 70px;
+    /* margin: 10px; */
+    padding-left: 0px;
+    padding-right: 0px;
+}
+#notes,h1{
+    text-align: center;
+    color:white;
+}
+.btn{
+    border-radius: 40px;
+    font-size: 20px;
+}
