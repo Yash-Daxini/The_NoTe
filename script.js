@@ -63,7 +63,7 @@ function deletenote(index) {
     shownotes();
 }
 
-let search = document.getElementById('search');
+/*let search = document.getElementById('search');
 search.addEventListener("input", function(){
 
     let inputVal = search.value.toLowerCase();
@@ -82,7 +82,7 @@ search.addEventListener("input", function(){
         
     });
 });
-
+*/
 /*
 Further Features:
 1. Add Title
