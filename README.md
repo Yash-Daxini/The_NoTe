@@ -1,1 +1,1 @@
-Note app using JS
+Note app using Vanilla JS
